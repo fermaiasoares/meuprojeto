@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "strict": false,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "strictNullChecks": true,
+    "noImplicitAny": true,
+    "skipLibCheck": false,
+    "sourceMap": false
+  },
+  "extends": "@tsconfig/react-native/tsconfig.json"
+}
